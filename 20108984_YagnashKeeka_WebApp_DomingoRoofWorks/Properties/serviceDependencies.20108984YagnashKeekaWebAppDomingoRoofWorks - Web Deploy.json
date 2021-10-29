@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/yagnashkeeka20108984/databases/20108984_DomingoRoofWorks_YagnashKeeka",
+      "type": "mssql.azure",
+      "connectionId": "yagnashkeeka20108984.database.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
